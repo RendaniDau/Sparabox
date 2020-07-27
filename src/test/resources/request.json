@@ -1,0 +1,25 @@
+{
+  "accountNumber" : "10012622422",
+  "dateTime" : "2020-04-23T22:50:16.851Z",
+  "centsAmount" : 10000,
+  "currencyCode" : "zar",
+  "type" : "card",
+  "reference" : "simulation",
+  "card" : {
+    "id" : "402167xxxxxx2014"
+  },
+  "merchant" : {
+    "category" : {
+      "code" : "5462",
+      "key" : "bakeries",
+      "name" : "Bakeries"
+    },
+    "name" : "The Coders Bakery",
+    "city" : "Cape Town",
+    "country" : {
+      "code" : "ZA",
+      "alpha3" : "ZAF",
+      "name" : "South Africa"
+    }
+  }
+}
